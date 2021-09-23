@@ -1,8 +1,0 @@
-test test
-tstlkjsdjklafs
-<<<<<<< HEAD
-c
-=======
-b
->>>>>>> 63a9c3a051e46c078c4b6fd8674be7a9632af163
-sdfasdfas
